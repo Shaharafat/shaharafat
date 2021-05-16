@@ -38,21 +38,13 @@
 
 <br />
 
-# Blog posts
+## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
 - [JSX Explained](https://dev.to/shaharafat/jsx-explained-3i51)
 - [Some JavaScript Principles you should know.](https://dev.to/shaharafat/some-javascript-principles-you-should-know-22il)
-<!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-## Blog posts
-
-<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/shaharafat)
