@@ -36,7 +36,17 @@
 <img align="left" style="margin-right: 5px; margin-top: 5px" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" style="margin-right: 5px; margin-top: 5px" alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-<br/>
+<br />
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [JSX Explained](https://dev.to/shaharafat/jsx-explained-3i51)
+- [Some JavaScript Principles you should know.](https://dev.to/shaharafat/some-javascript-principles-you-should-know-22il)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
