@@ -1,10 +1,6 @@
 ### Hi there, I'm Shah Arafat  👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sharafhat?color=%231DA1F2&label=Twitter&logo=Shah%20Arafat&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/sharafhat?color=%231DA1F2&logo=Shah%20Arafat&style=flat-square)](https://twitter.com/sharafhat?ref_src=twsrc%5Etfw)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/sharafhat?color=%231DA1F2&label=Twitter&style=flat-square)](https://twitter.com/sharafhat?ref_src=twsrc%5Etfw)
 
 ## I'm a Web Developer, Author, Nerd, and Teacher!!
 
@@ -23,7 +19,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
