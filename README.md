@@ -41,7 +41,6 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [JSX Explained](https://dev.to/shaharafat/jsx-explained-3i51)
 - [Some JavaScript Principles you should know.](https://dev.to/shaharafat/some-javascript-principles-you-should-know-22il)
 <!-- BLOG-POST-LIST:END -->
