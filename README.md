@@ -41,6 +41,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [JSX Explained](https://dev.to/shaharafat/jsx-explained-3i51)
 - [Some JavaScript Principles you should know.](https://dev.to/shaharafat/some-javascript-principles-you-should-know-22il)
 <!-- BLOG-POST-LIST:END -->
@@ -50,9 +51,6 @@
 ---
 
 [![Arafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaharafat&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/shaharafat/github-readme-stats)
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaharafat&show_icons=true&theme=react&title_color=white&locale=en&layout=compact" alt="shah arafat" width="500px" style="margin-left: 20px;" />
 
 [website]: https://shaharafat.info
 [twitter]: https://twitter.com/sharafhat
