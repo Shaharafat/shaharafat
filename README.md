@@ -4,7 +4,7 @@
 
 ## I'm a Web Developer, Author, Nerd, and Teacher!!
 
-- 🌱 I’m currently learning Front End Development 🤣
+- 🌱 I’m currently learning Front End Development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: When I am not working, I love to travel
