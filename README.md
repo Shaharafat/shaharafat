@@ -1,56 +1,25 @@
-### Hi there, I'm Shah Arafat 👋
+<h1 align="center">Hi 👋, I'm Arafat</h1>
+<h3 align="center">Front-End Developer | An Open Node</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sharafhat?color=%231DA1F2&label=Twitter&style=flat-square)](https://twitter.com/sharafhat?ref_src=twsrc%5Etfw)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharafat&label=Profile%20views&color=0e75b6&style=flat" alt="shaharafat" /> </p>
 
-## I'm a Web Developer, Author, Nerd, and Teacher!!
+- 👨‍💻 All of my projects are available at [https://arafat.me](https://arafat.me)
 
-- 🌱 I’m currently learning Front End Development
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: When I am not working, I love to travel
+- 💬 Ask me about **JavaScript, Vue JS, Nuxt JS**
 
-### Connect with me:
+- 📫 How to reach me **connect@arafat.me**
 
-[<img align="left" alt="shaharafat.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sharafhat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="shah arafat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 📄 Know about my experiences [https://docs.google.com/document/d/1rIQxfpg551oj1eaW11BRHyYfFVrDdIaubXV5NwKt0Qo/edit?usp=sharing](https://docs.google.com/document/d/1rIQxfpg551oj1eaW11BRHyYfFVrDdIaubXV5NwKt0Qo/edit?usp=sharing)
 
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/shaharafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shaharafat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shah-arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah-arafat" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shah_arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shah_arafat" height="30" width="40" /></a>
+<a href="https://discord.gg/shah_arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shah_arafat" height="30" width="40" /></a>
+</p>
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<img align="left" alt="HTML" style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="CSS" style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="bootstrap" style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="left" alt="scss" style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img align="left" alt="tailwind" style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img align="left" alt="JavaScrip" style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="left" alt="react" style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" style="margin-right:5px; margin-top: 5px" alt="react router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-<img align="left" alt="" style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-<img align="left" alt="redux" style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img align="left" alt="next js" style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img align="left" alt="express" style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img align="left" style="margin-right: 5px; margin-top: 5px" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="left" style="margin-right:5px" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img align="left" style="margin-right: 5px; margin-top: 5px" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img style="margin-right: 5px; margin-top: 5px" alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
-<br />
-
-## Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [JSX Explained](https://dev.to/shaharafat/jsx-explained-3i51)
-- [Some JavaScript Principles you should know.](https://dev.to/shaharafat/some-javascript-principles-you-should-know-22il)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://dev.to/shaharafat)
-
----
-
-[![Arafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaharafat&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/shaharafat/github-readme-stats)
-
-[website]: https://shaharafat.info
-[twitter]: https://twitter.com/sharafhat
-[linkedin]: https://linkedin.com/in/shah-arafat
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaharafat&show_icons=true&locale=en" alt="shaharafat" /></p>
